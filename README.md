@@ -1,2 +1,2 @@
 # first
-My first githun file
+My first github file
